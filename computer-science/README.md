@@ -30,7 +30,7 @@ __開始日 : 2025年11月22日__
 
 📁 computer-science  
 ├── 📁 computer-architecture/operating-system  
-├── 📁 data-structure
+└── 📁 data-structure
 
 <br>
 <br>
